@@ -6,7 +6,7 @@ public class BasicInput {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        java.util.Scanner input = new java.util,Scanner(System.in);
+        java.util.Scanner input = new java.util,Scanner(System.in)
 
 
         System.out.print("Enter a number: ");
