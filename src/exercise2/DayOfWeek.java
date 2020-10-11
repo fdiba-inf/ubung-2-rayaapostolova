@@ -10,7 +10,7 @@ Scanner input = new Scanner(System.in);
 System.out.print("Enter number of day: ");
 int day = input.nextInt();
 if (day == 1) {
-  System.out.ptintln("Day of week: Monday");
+  System.out.println("Day of week: Monday");
   } else if (day == 2) {
     System.out.println("Day of week: Tuesday");
 
